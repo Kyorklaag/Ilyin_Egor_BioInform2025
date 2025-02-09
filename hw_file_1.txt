@@ -1,0 +1,13 @@
+Bioinformatics is amazing!
+tree -d
+    1  mkdir -p ~/Bioinformatics2025/hw/hw_1
+    2  cd ~/Bioinformatics2025/hw/hw_1
+    3  touch my_hw_file_1.txt
+    4  echo "Bioinformatics is amazing!" > my_hw_file_1.txt
+    5  mv my_hw_file_1.txt hw_file_1.txt
+    6  cp hw_file_1.txt ~/homework
+    7  rm hw_file_1.txt
+    8  cd ~
+    9  tree -d
+   10  echo tree -d >> ~/homework/hw_file_1.txt
+   11  history >> ~/homework/hw_file_1.txt

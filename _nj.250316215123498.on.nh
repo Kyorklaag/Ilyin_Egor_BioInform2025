@@ -1,0 +1,9 @@
+(
+1_sp_P02452_CO1A1_HUMAN_Collagen_alpha-1_I__chain_OS=Homo_sapiens_OX=9606_GN=COL1A1_PE=1_SV=6
+:0.0128,
+2_sp_P02453_CO1A1_BOVIN_Collagen_alpha-1_I__chain_OS=Bos_taurus_OX=9913_GN=COL1A1_PE=1_SV=3
+:0.0146,(
+4_sp_Q9XSJ7_CO1A1_CANLF_Collagen_alpha-1_I__chain_OS=Canis_lupus_familiaris_OX=9615_GN=COL1A1_PE=1_SV=1
+:0.0102,
+3_sp_P02457_CO1A1_CHICK_Collagen_alpha-1_I__chain_OS=Gallus_gallus_OX=9031_GN=COL1A1_PE=1_SV=3
+:0.0985):0.0027);

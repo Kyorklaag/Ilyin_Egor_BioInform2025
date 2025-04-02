@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_033717301.1       -          Cys_knot             PF00007.27   5.6e-34  118.2  13.7   6.8e-34  117.9  13.7   1.1   1   0   0   1   1   1   1 thyrotropin subunit beta [Tursiops truncatus]
+XP_033701617.1       -          Cys_knot             PF00007.27   5.3e-33  115.0   2.2     6e-33  114.9   2.2   1.0   1   0   0   1   1   1   1 lutropin subunit beta isoform X2 [Tursiops truncatus]
+XP_004320590.1       -          Cys_knot             PF00007.27   9.2e-33  114.3  19.3   1.2e-32  113.9  19.3   1.1   1   0   0   1   1   1   1 follitropin subunit beta [Tursiops truncatus]
+XP_033717605.1       -          Cys_knot             PF00007.27   2.6e-32  112.8  18.7   1.3e-31  110.6  17.5   1.9   1   1   1   2   2   2   1 follitropin subunit beta-like [Tursiops truncatus]
+XP_004313864.2       -          Cys_knot             PF00007.27   3.8e-18   67.3   6.9   4.8e-18   67.0   6.9   1.1   1   0   0   1   1   1   1 glycoprotein hormone beta-5 [Tursiops truncatus]
+XP_019807483.1       -          Cys_knot             PF00007.27   2.5e-15   58.2   9.6   2.5e-15   58.2   9.6   3.7   4   0   0   4   4   2   1 CCN family member 2 [Tursiops truncatus]
+XP_004325644.1       -          Cys_knot             PF00007.27   2.7e-15   58.1  12.2   2.7e-15   58.1  12.2   3.6   3   1   0   3   3   1   1 CCN family member 1 [Tursiops truncatus]
+XP_019787646.1       -          Cys_knot             PF00007.27   4.1e-10   41.5  12.2   4.1e-10   41.5  12.2   3.9   4   0   0   4   4   2   1 CCN family member 3 [Tursiops truncatus]
+XP_033698795.1       -          Cys_knot             PF00007.27   7.9e-08   34.1   4.9   3.4e-07   32.1   4.9   2.2   1   1   0   1   1   1   1 WNT1-inducible-signaling pathway protein 1 isoform X3 [Tursiops truncatus]
+XP_033698796.1       -          Cys_knot             PF00007.27   7.9e-08   34.1   4.9   3.4e-07   32.1   4.9   2.2   1   1   0   1   1   1   1 WNT1-inducible-signaling pathway protein 1 isoform X3 [Tursiops truncatus]
+XP_033723532.1       -          Cys_knot             PF00007.27   2.8e-07   32.4  10.1   2.8e-07   32.4  10.1   3.7   2   2   1   3   3   2   1 cellular communication network factor 6 [Tursiops truncatus]
+XP_033723197.1       -          Cys_knot             PF00007.27   6.3e-07   31.2  17.7   6.3e-07   31.2  17.7   2.5   1   1   1   2   2   1   1 mucin-19 [Tursiops truncatus]
+XP_004319905.1       -          Cys_knot             PF00007.27     2e-06   29.6   7.8   2.6e-06   29.3   7.8   1.1   1   0   0   1   1   1   1 neuroblastoma suppressor of tumorigenicity 1 isoform X1 [Tursiops truncatus]
+XP_019774520.1       -          Cys_knot             PF00007.27     2e-06   29.6   7.8   2.6e-06   29.3   7.8   1.1   1   0   0   1   1   1   1 neuroblastoma suppressor of tumorigenicity 1 isoform X1 [Tursiops truncatus]
+XP_019774522.1       -          Cys_knot             PF00007.27   3.1e-06   29.0   7.8   4.3e-06   28.5   7.8   1.2   1   0   0   1   1   1   1 neuroblastoma suppressor of tumorigenicity 1 isoform X2 [Tursiops truncatus]
+XP_004310914.1       -          Cys_knot             PF00007.27   5.6e-06   28.2  11.0   8.5e-06   27.6  11.0   1.3   1   0   0   1   1   1   1 norrin [Tursiops truncatus]
+XP_004320240.1       -          Cys_knot             PF00007.27     6e-05   24.9   8.0   0.00031   22.6   8.0   2.0   1   1   0   1   1   1   1 sclerostin domain-containing protein 1 [Tursiops truncatus]
+XP_004331087.2       -          Cys_knot             PF00007.27    0.0008   21.2   8.6    0.0012   20.7   8.6   1.2   1   0   0   1   1   1   1 cerberus [Tursiops truncatus]
+XP_033703853.1       -          Cys_knot             PF00007.27    0.0015   20.4   0.3    0.0034   19.2   0.3   1.6   1   1   0   1   1   1   1 sclerostin [Tursiops truncatus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      PF00007.hmm
+# Target file:     protein.faa
+# Option settings: hmmsearch --tblout hedgehog.tbl PF00007.hmm protein.faa 
+# Current dir:     /home/eilyin/ncbi_dataset/data/GCF_011762595.1
+# Date:            Wed Apr  2 10:28:29 2025
+# [ok]

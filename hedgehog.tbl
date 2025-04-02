@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_007530561.1       -          Cys_knot             PF00007.27   1.1e-34  120.3  15.9   1.4e-34  120.0  15.9   1.1   1   0   0   1   1   1   1 follitropin subunit beta [Erinaceus europaeus]
+XP_007535641.1       -          Cys_knot             PF00007.27   3.4e-33  115.5  14.2   4.1e-33  115.3  14.2   1.1   1   0   0   1   1   1   1 thyrotropin subunit beta [Erinaceus europaeus]
+XP_007536040.2       -          Cys_knot             PF00007.27   2.3e-32  112.9   1.8   2.6e-32  112.7   1.8   1.1   1   0   0   1   1   1   1 lutropin subunit beta, partial [Erinaceus europaeus]
+XP_007530977.1       -          Cys_knot             PF00007.27   9.4e-19   69.1   6.2   1.3e-18   68.7   6.2   1.2   1   0   0   1   1   1   1 glycoprotein hormone beta-5 [Erinaceus europaeus]
+XP_007524808.1       -          Cys_knot             PF00007.27   2.5e-15   58.1  12.1   2.5e-15   58.1  12.1   3.5   4   0   0   4   4   2   1 CCN family member 1 isoform X1 [Erinaceus europaeus]
+XP_007535859.1       -          Cys_knot             PF00007.27   3.8e-15   57.5  10.1   3.8e-15   57.5  10.1   3.8   4   0   0   4   4   2   1 CCN family member 2 [Erinaceus europaeus]
+XP_007526301.1       -          Cys_knot             PF00007.27   9.3e-10   40.2  13.1   9.3e-10   40.2  13.1   4.1   3   1   1   4   4   2   1 CCN family member 3 [Erinaceus europaeus]
+XP_060057083.1       -          Cys_knot             PF00007.27   3.8e-07   31.8   4.5   3.8e-07   31.8   4.5   3.1   2   1   1   3   3   2   1 CCN family member 4 isoform X4 [Erinaceus europaeus]
+XP_060057077.1       -          Cys_knot             PF00007.27   3.9e-07   31.8   4.5   3.9e-07   31.8   4.5   3.1   2   1   1   3   3   2   1 CCN family member 4 isoform X3 [Erinaceus europaeus]
+XP_016048766.1       -          Cys_knot             PF00007.27   1.1e-06   30.4   7.0   1.4e-06   30.0   7.0   1.1   1   0   0   1   1   1   1 neuroblastoma suppressor of tumorigenicity 1 isoform X1 [Erinaceus europaeus]
+XP_007534847.2       -          Cys_knot             PF00007.27   1.4e-06   30.0   7.0   2.3e-06   29.3   7.0   1.3   1   0   0   1   1   1   1 neuroblastoma suppressor of tumorigenicity 1 isoform X2 [Erinaceus europaeus]
+XP_007528194.3       -          Cys_knot             PF00007.27   3.6e-06   28.7  11.0   3.6e-06   28.7  11.0   3.8   2   1   1   3   3   2   1 cellular communication network factor 6 [Erinaceus europaeus]
+XP_007528285.1       -          Cys_knot             PF00007.27   4.6e-06   28.3  10.9   6.7e-06   27.8  10.9   1.3   1   0   0   1   1   1   1 norrin [Erinaceus europaeus]
+XP_007518644.1       -          Cys_knot             PF00007.27   3.7e-05   25.4   6.8   5.4e-05   24.9   6.8   1.3   1   0   0   1   1   1   1 glycoprotein hormone alpha-2 [Erinaceus europaeus]
+XP_007536120.2       -          Cys_knot             PF00007.27   4.2e-05   25.2   8.3   6.1e-05   24.7   8.3   1.2   1   0   0   1   1   1   1 cerberus [Erinaceus europaeus]
+XP_060048017.1       -          Cys_knot             PF00007.27   8.1e-05   24.3   5.7    0.0001   24.0   5.7   1.2   1   0   0   1   1   1   1 gremlin-2 [Erinaceus europaeus]
+XP_007532030.1       -          Cys_knot             PF00007.27   8.5e-05   24.3   7.9   0.00039   22.1   7.9   1.9   1   1   0   1   1   1   1 sclerostin domain-containing protein 1 [Erinaceus europaeus]
+XP_007531903.2       -          Cys_knot             PF00007.27   0.00046   21.9   0.5   0.00046   21.9   0.5   1.8   2   1   0   2   2   2   1 LOW QUALITY PROTEIN: sclerostin [Erinaceus europaeus]
+XP_007532531.1       -          Cys_knot             PF00007.27      0.79   11.5   2.9       1.3   10.8   2.9   1.4   1   1   0   1   1   1   0 DAN domain family member 5 [Erinaceus europaeus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      PF00007.hmm
+# Target file:     protein.faa
+# Option settings: hmmsearch --tblout hedgehog.tbl PF00007.hmm protein.faa 
+# Current dir:     /home/eilyin/ncbi_dataset/data/GCF_950295315.1
+# Date:            Wed Apr  2 10:12:14 2025
+# [ok]
